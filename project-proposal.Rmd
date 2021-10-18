@@ -11,11 +11,11 @@ What am I doing?
 - I am recreating my resume with R. 
 
 Why am I doing it?
-- Constantly reformatting my resume everytime I want to add something is exhausting and tedious. I want to have a better system for myself. I also want a resume that is visually appealing and helps me stand out to employers.
+- Constantly reformatting my resume everytime I want to add something is exhausting and tedious. I want to have a better system for myself. I also want a resume that is visually appealing and helps me stand out to employers. I really enjoyed working with the website we made, so I am hoping that it is similar and that I can learn a lot about R from doing this.
 
 
 How am I doing it?
-- I tend to use either the {datadrivencv} package or the {pagedown} package, I have not decided yet. 
+- I plan to use either the {datadrivencv} package or the {pagedown} package, I have not decided yet. 
 
 
 How will I know that I am are successful?
